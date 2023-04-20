@@ -8,4 +8,8 @@ __[Contact Us](https://onlinewebtutorblog.com/contact-us/) for any further commu
 
 ![Laravel 10 - Online Web Tutor](./laravel-10.jpg)
 
-[How To Create Custom Log File in Laravel 10 Tutorial](https://onlinewebtutorblog.com/how-to-create-custom-log-file-in-laravel-10-tutorial/)
+### Listing of All Articles
+
+[1. How To Create Custom Log File in Laravel 10 Tutorial](https://onlinewebtutorblog.com/how-to-create-custom-log-file-in-laravel-10-tutorial/)
+
+[2. How To Create Custom Route File in Laravel 10 Tutorial](https://onlinewebtutorblog.com/how-to-create-custom-route-file-in-laravel-10-tutorial/)
