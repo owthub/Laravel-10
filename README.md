@@ -13,3 +13,5 @@ __[Contact Us](https://onlinewebtutorblog.com/contact-us/) for any further commu
 [1. How To Create Custom Log File in Laravel 10 Tutorial](https://onlinewebtutorblog.com/how-to-create-custom-log-file-in-laravel-10-tutorial/)
 
 [2. How To Create Custom Route File in Laravel 10 Tutorial](https://onlinewebtutorblog.com/how-to-create-custom-route-file-in-laravel-10-tutorial/)
+
+[3. How To Create Custom Artisan Command in Laravel 10](https://onlinewebtutorblog.com/how-to-create-custom-artisan-command-in-laravel-10/)
