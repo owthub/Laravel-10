@@ -15,3 +15,5 @@ __[Contact Us](https://onlinewebtutorblog.com/contact-us/) for any further commu
 [2. How To Create Custom Route File in Laravel 10 Tutorial](https://onlinewebtutorblog.com/how-to-create-custom-route-file-in-laravel-10-tutorial/)
 
 [3. How To Create Custom Artisan Command in Laravel 10](https://onlinewebtutorblog.com/how-to-create-custom-artisan-command-in-laravel-10/)
+
+[4. How To Generate Unique Slug in Laravel 10 Tutorial](https://onlinewebtutorblog.com/how-to-generate-unique-slug-in-laravel-10-tutorial/)
