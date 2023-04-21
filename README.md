@@ -25,3 +25,5 @@ __[Contact Us](https://onlinewebtutorblog.com/contact-us/) for any further commu
 [7. Laravel 10 How To Change Name And From Address in Email](https://onlinewebtutorblog.com/laravel-10-how-to-change-name-and-from-address-in-email/)
 
 [8. Laravel 10 How To Add Image Into PDF Using DomPDF Library](https://onlinewebtutorblog.com/laravel-10-how-to-add-image-into-pdf-using-dompdf-library/)
+
+[9. Laravel 10 How To Work with Model Events And Listeners](https://onlinewebtutorblog.com/laravel-10-how-to-work-with-model-events-and-listeners/)
