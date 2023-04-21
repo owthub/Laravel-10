@@ -21,3 +21,5 @@ __[Contact Us](https://onlinewebtutorblog.com/contact-us/) for any further commu
 [5. How To Get HTTP Hostname In Laravel 10 Tutorial](https://onlinewebtutorblog.com/how-to-get-http-hostname-in-laravel-10-tutorial/)
 
 [6. How to Check If a File Exists in Laravel 10 Tutorial](https://onlinewebtutorblog.com/how-to-check-if-a-file-exists-in-laravel-10-tutorial/)
+
+[7. Laravel 10 How To Change Name And From Address in Email](https://onlinewebtutorblog.com/laravel-10-how-to-change-name-and-from-address-in-email/)
