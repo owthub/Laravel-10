@@ -69,4 +69,41 @@ $ php artisan make:controller DataController
 
 It will create __DataController.php__ file inside __/app/Http/Controllers__ folder. Open controller file and write this code into it.
 
+```swift
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use App\Models\Product;
+
+class DataController extends Controller
+{
+    public function downloadCSVReport()
+    {
+        header('Content-Type: text/csv; charset=utf-8');
+        header('Content-Disposition: attachment; filename=product-' . date("Y-m-d-h-i-s") . '.csv');
+        $output = fopen('php://output', 'w');
+      
+        fputcsv($output, array('Id', 'Name', 'Slug'));
+
+        $products = Product::get();
+
+        if (count($products) > 0) {
+
+            foreach ($products as $product) {
+
+                $product_row = [
+                    $product['id'],
+                    ucfirst($product['name']),
+                    $product['slug']
+                ];
+
+                fputcsv($output, $product_row);
+            }
+        }
+    }
+}
+```
+
 ### See Complete Article, [Click here](https://onlinewebtutorblog.com/laravel-10-export-mysql-table-data-into-csv-file-tutorial/)
