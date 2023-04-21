@@ -17,3 +17,5 @@ __[Contact Us](https://onlinewebtutorblog.com/contact-us/) for any further commu
 [3. How To Create Custom Artisan Command in Laravel 10](https://onlinewebtutorblog.com/how-to-create-custom-artisan-command-in-laravel-10/)
 
 [4. How To Generate Unique Slug in Laravel 10 Tutorial](https://onlinewebtutorblog.com/how-to-generate-unique-slug-in-laravel-10-tutorial/)
+
+[5. How To Get HTTP Hostname In Laravel 10 Tutorial](https://onlinewebtutorblog.com/how-to-get-http-hostname-in-laravel-10-tutorial/)
