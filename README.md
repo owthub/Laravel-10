@@ -31,3 +31,5 @@ __[Contact Us](https://onlinewebtutorblog.com/contact-us/) for any further commu
 [10. Laravel 10 Export MySQL Table Data into CSV File Tutorial](https://onlinewebtutorblog.com/laravel-10-export-mysql-table-data-into-csv-file-tutorial/)
 
 [11. Form Validation with Ajax Request in Laravel 10 Tutorial](https://onlinewebtutorblog.com/form-validation-with-ajax-request-in-laravel-10-tutorial/)
+
+[12. How To Get File Size From File Path in Laravel 10 Tutorial](https://onlinewebtutorblog.com/how-to-get-file-size-from-file-path-in-laravel-10-tutorial/)
