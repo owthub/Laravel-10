@@ -29,3 +29,5 @@ __[Contact Us](https://onlinewebtutorblog.com/contact-us/) for any further commu
 [9. Laravel 10 How To Work with Model Events And Listeners](https://onlinewebtutorblog.com/laravel-10-how-to-work-with-model-events-and-listeners/)
 
 [10. Laravel 10 Export MySQL Table Data into CSV File Tutorial](https://onlinewebtutorblog.com/laravel-10-export-mysql-table-data-into-csv-file-tutorial/)
+
+[11. Form Validation with Ajax Request in Laravel 10 Tutorial](https://onlinewebtutorblog.com/form-validation-with-ajax-request-in-laravel-10-tutorial/)
